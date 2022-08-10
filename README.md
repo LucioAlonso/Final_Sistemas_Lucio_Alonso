@@ -1,5 +1,5 @@
-# Parcial_1_Sistemas_Lucio_Alonso
-Proyecto para el primer parcial realizado para la materia de Sistemas de Computación de la carrera de Informática Aplicada
+# Final_Sistemas_Lucio_Alonso
+Proyecto para el examen FINAL realizado para la materia de Sistemas de Computación de la carrera de Informática Aplicada
 
 Las consignas son las siguientes:
 
